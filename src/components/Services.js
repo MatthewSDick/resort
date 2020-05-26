@@ -1,7 +1,7 @@
 import React, { Component } from "react";
 import { FaCocktail, FaHiking, FaShuttleVan, FaBeer } from "react-icons/fa";
 import Title from "./Title";
-import { loremIpsum } from "lorem-ipsum";
+// import { loremIpsum } from "lorem-ipsum";
 
 export default class Services extends Component {
   state = {
